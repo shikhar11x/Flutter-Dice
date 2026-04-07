@@ -21,6 +21,8 @@ The app generates a random dice face every time the user taps the dice, providin
 - dart:math
 
 ---
+## 📸 Screenshot
+![Dice App Screenshot](https://github.com/shikhar11x/Flutter-Dice/blob/main/assets/images/screenshot/image.png?raw=true)
 
 ## 📂 Project Structure
 ```bash
