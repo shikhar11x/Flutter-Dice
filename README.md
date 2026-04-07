@@ -13,6 +13,11 @@ The app generates a random dice face every time the user taps the dice, providin
 - Beginner-friendly Flutter project
 
 ---
+<p align="left">
+  <a href="https://flutter-dice-blazestack.vercel.app/">
+    <img src="https://img.shields.io/badge/%20Live%20Demo-View%20Web-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Live Demo Button"/>
+  </a>
+</p>
 
 ## 🛠️ Tech Stack
 - Flutter
